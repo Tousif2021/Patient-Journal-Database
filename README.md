@@ -5,9 +5,13 @@ This project is a comprehensive database system designed to manage and store pat
 
 Features
 Patient Record Management: Stores detailed patient data, including demographics, medical history, treatment records, and visit summaries.
+
 Secure Access: Implements role-based access control to ensure that only authorized personnel can view or edit sensitive patient information.
+
 Data Integrity: Utilizes data validation and backup protocols to maintain the accuracy and reliability of stored records.
+
 Search and Retrieval: Provides fast search capabilities and customizable filters for efficient data retrieval.
+
 Scalability: Designed to handle large volumes of data and support expansion as patient data grows.
 
 
